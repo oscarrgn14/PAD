@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">appMovilAndroid</string>
+    <string name="youtube_manager">Youtube Manager</string>
+    <string name="menu">Menú</string>
+    <string name="enlaces">Enlaces</string>
+    <string name="gestiona_tus_enlaces">Gestiona tus enlaces</string>
+    <string name="search_link">Busca el enlace de tu video</string>
 </resources>
